@@ -1,6 +1,6 @@
 # 📸 Lucas Mendonça | Fotografia
 
-![Preview do Site](https://gabrielabade.github.io/fotografoimages/fotografo.png)
+![Preview do Site](images/fotografo.png)
 
 Site pessoal e profissional do fotógrafo **Lucas Mendonça**, desenvolvido com HTML, CSS e JavaScript puro. Ideal para apresentar seus serviços, portfólio de fotos, depoimentos de clientes e facilitar o contato via WhatsApp ou e-mail.
 
